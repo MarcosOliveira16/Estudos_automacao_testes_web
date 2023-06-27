@@ -1,0 +1,6 @@
+- Implementando o 'pytest' para automatizar os testes e evitar repetições de código
+a nível básico.
+- Uso 'conftest' que é um arquivo onde temos métodos genéricos.
+- Uso de 'mark' para passar instruções, sendo elas para importar o 'conftest'
+ou dar algum comando de pular ou algo a mais no teste.
+- Uso do 'mark' para apelidar os teste.
