@@ -1,0 +1,7 @@
+* OBS: conferir a pasta 'pages' e seu conteúdo
+* OBS: BasePage(Classe mãe) e as demais filhas (login_page, home_page)
+- Uso do page object
+- Organização do locators (forma q encontramos os elementos na tela) 'find_elements'
+- Base_page, usado para métodos mais genéricos/gerais
+- login_page, usado para ações que podem ser feitas na pagina de login_page
+- home_page, usado  para ações que podem ser feitas na pagina de home_page
