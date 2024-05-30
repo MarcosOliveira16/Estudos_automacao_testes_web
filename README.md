@@ -1,4 +1,4 @@
-# Estudos_automacao_testes_web
+# Estudos automacao testes web
 Códigos iniciais sobre a temática de automação web usando as bibliotecas 'selenium' e 'pytest'. Todas as atividades foram feitas usando de sites destinados a testes sobre o referido assunto, a exemplo do 'https://www.saucedemo.com/'.
 
 # Documentação dos Testes Automatizados com Selenium e Pytest
